@@ -4342,5 +4342,14 @@ Pantheon 2017,
   <media:thumbnail url="https://d1fd687oe6a92y.cloudfront.net/img/user-media/titles/title/cover/5e86e91722cf4213b2341e64f4e850c6/3761e1a3d25a436bb8345be7467a459b.jpeg.180x0_q85_autocrop.webp"/>
   <media:content url="https://d1fd687oe6a92y.cloudfront.net/img/user-media/titles/title/cover/5e86e91722cf4213b2341e64f4e850c6/3761e1a3d25a436bb8345be7467a459b.jpeg.180x0_q85_autocrop.webp" medium="image"/>
 </item>
+<item>
+  <title><![CDATA[Book Review: ‘Look What You Made Me Do,’ by John Lanchester]]></title>
+  <link>https://www.nytimes.com/2026/05/10/books/review/whos-been-taking-notes-at-our-bedroom-door.html</link>
+  <guid isPermaLink="false">https://www.nytimes.com/2026/05/10/books/review/whos-been-taking-notes-at-our-bedroom-door.html</guid>
+  <pubDate>Sun, 10 May 2026 09:01:03 +0000</pubDate>
+  <description><![CDATA[In John Lanchester’s “Look What You Made Me Do,” a widow is unnerved when a hit TV series airs details from her marriage a little too closely.]]></description>
+  <media:thumbnail url="https://static01.nyt.com/images/2026/05/10/books/10TBR-Lanchester-review/10TBR-Lanchester-review-mediumSquareAt3X.jpg"/>
+  <media:content url="https://static01.nyt.com/images/2026/05/10/books/10TBR-Lanchester-review/10TBR-Lanchester-review-mediumSquareAt3X.jpg" medium="image"/>
+</item>
 </channel>
 </rss>
