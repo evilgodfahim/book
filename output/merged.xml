@@ -8605,5 +8605,12 @@ The end is where we start from.”
   <media:thumbnail url="https://static01.nyt.com/images/2026/05/20/multimedia/20TBR-AI-Granta-gfkm/20TBR-AI-Granta-gfkm-mediumSquareAt3X.jpg"/>
   <media:content url="https://static01.nyt.com/images/2026/05/20/multimedia/20TBR-AI-Granta-gfkm/20TBR-AI-Granta-gfkm-mediumSquareAt3X.jpg" medium="image"/>
 </item>
+<item>
+  <title><![CDATA[The A.I. threat to audiobooks]]></title>
+  <link>https://www.nytimes.com/video/books/100000010871664/articial-intelligence-audiobooks-piracy-harry-potter-video.html</link>
+  <guid isPermaLink="false">https://www.nytimes.com/video/books/100000010871664/articial-intelligence-audiobooks-piracy-harry-potter-video.html</guid>
+  <pubDate>Thu, 21 May 2026 01:38:59 +0000</pubDate>
+  <description><![CDATA[Artificial intelligence has made pirated audiobooks faster to make and harder to detect. Our reporter Alexandra Alter tells us about the latest threat to the publishing industry.]]></description>
+</item>
 </channel>
 </rss>
