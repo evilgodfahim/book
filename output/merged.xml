@@ -10374,5 +10374,14 @@ On BookTok, evaluation is testimony: the reader’s response to a book isn’t e
   <media:thumbnail url="https://static01.nyt.com/images/2026/05/26/multimedia/26daley-kqpf/26daley-kqpf-mediumSquareAt3X.jpg"/>
   <media:content url="https://static01.nyt.com/images/2026/05/26/multimedia/26daley-kqpf/26daley-kqpf-mediumSquareAt3X.jpg" medium="image"/>
 </item>
+<item>
+  <title><![CDATA[Harold A. Taylor’s Autochromes of California Flowers (early 20th century)]]></title>
+  <link>https://publicdomainreview.org/collection/harold-taylor-flowers</link>
+  <guid isPermaLink="false">https://publicdomainreview.org/collection/harold-taylor-flowers</guid>
+  <pubDate>Tue, 26 May 2026 17:15:00 GMT</pubDate>
+  <description><![CDATA[Photographs of flowers by an advocate of California’s beauty.]]></description>
+  <media:thumbnail url="https://pdr-assets.b-cdn.net//collections/harold-taylor-flowers/cacdoha_000455_access-thumb.jpeg"/>
+  <media:content url="https://pdr-assets.b-cdn.net//collections/harold-taylor-flowers/cacdoha_000455_access-thumb.jpeg" medium="image"/>
+</item>
 </channel>
 </rss>
